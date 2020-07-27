@@ -1,8 +1,8 @@
 <p align="center">
   
-  Hey there. How you doin'?
+  <h2> Hey there. How you doin'? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-  Welcom to my Github.
+  Welcome to my Github.
   
   You can also find me at:
 
